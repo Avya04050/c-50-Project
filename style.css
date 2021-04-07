@@ -1,0 +1,37 @@
+h1 {
+    color:crimson;
+    
+    }
+
+    .header{
+        background-color:cadetblue;
+        display:flex;
+        justify-content:space-evenly;
+        text-align:center;
+        flex-flow:column wrap;
+
+
+    }
+    .menu{
+        display:flex;
+        justify-content:space-around;
+
+    }
+   
+    .grid{
+        background-color: bisque;
+        display:flex;
+        flex-wrap:wrap;
+        justify-content:space-evenly;
+   
+
+    }
+   .animal{
+    background-color: darkgray;
+    display:flex;
+    justify-content:center; 
+    flex-wrap:wrap;
+    flex-flow:column wrap;
+    border-radius: 10px;
+    border:solid
+   }
